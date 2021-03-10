@@ -1,1 +1,159 @@
-<mxfile host="app.diagrams.net" modified="2021-03-10T14:38:58.506Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="AKU5Wb6tcvgR5q4xkg-C" version="14.4.6" type="github"><diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">7ZjLcpswFIafhmU6RhgbL2Pn0kU6yTSdSbOU4QTUCMQIEeM+fSUQYC5OcGrctNOVpV8XxP/pnMPYsFZhds1xHHxhHlADTbzMsC4MhEyELPmjlK1WTAcVis+Jp7VauCc/QYsTrabEg6QxUTBGBYmbosuiCFzR0DDnbNOc9sRo86kx9qEj3LuYdtUH4omgUB17UuufgfhB+WRzokdCXE7WQhJgj212JOvSsFacMVG0wmwFVLlX+lKsu9ozWh2MQySGLLCidHmV8YW7vZnE0e3DN4Svz/QuL5im+oUN6/x2/UNZWZxabEsr5AvEqpmG9IY8ASWR7C1j4CQEAVyOUC3f1dpSghFYamrczPuU4jgh63zbiVQ4uClPyAt8haTgn6ssjTzwdK8yL+8Izp4rHGpT/RbABWR77TEr0+V1BSYPyLdySnVXNSd9Ux3d3dTUK7bBDnGrFLG+aX61dQ1DNjSPA9igLps2kpiRSOTPtZeGfdHCwbgImM8iTHeBHN/Y/Tdrr9tTu2H2vM/srtfmYiyvrY7XHkliLNyg47kyg8gEcU6JH0lpzYRgYe4e5uJc5RzlvdxKahB5pbKmzH0up+lE5wwlAF4nTQ3xXyZLzH14bR7q58SBYiFjsplQe2zXS+/UTaz5npn9gMsdEpZyF/SiFrvqFO/HOf2HQ8du5qkqb70RO85YoWP/LyFZqxR8mBIy+6vjwD6khPSa3VNCZmN5Pe94zUGkPBpeQHaKBYtBDi09nAS5z2YxvFM2ICPiuzZdtR9V+9PCfndFKVLy25dpWEUZFDe/WWTQvHkFkDVrblEcdbQq4xzho6HnA0G6xrcVWtV5PCTSDgeLBoKd/SmwnaAd+fNh0QEr0dE1lniOAtY8EdihETs9Gdhps0KiduUbGWxZEU6dpM2TJenph4vlNnJ7fqQkLbv1vyfF9PpPKOvyFw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-10T15:01:00.847Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="f9X5bMoiklJIlSV4QAne" version="14.4.6" type="github">
+  <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
+    <mxGraphModel dx="2586" dy="964" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <UserObject label="" lucidchartObjectId="8N1iQo8St_li" id="u4AFMaCB7_kAfrmaPgd3-4">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;fontFamily=helvetica;strokeColor=#333333;strokeOpacity=100;dashed=1;fixDash=1;strokeWidth=0.8;rounded=0;startArrow=none;;endArrow=none;;exitX=0.5;exitY=1;exitPerimeter=0;" edge="1" parent="1" source="u4AFMaCB7_kAfrmaPgd3-7">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+              <mxPoint x="4" y="909" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="8N1iASJytlk9" id="u4AFMaCB7_kAfrmaPgd3-5">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;fontFamily=helvetica;strokeColor=#333333;strokeOpacity=100;dashed=1;fixDash=1;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;;endArrow=none;;exitX=0.5;exitY=1;exitPerimeter=0;" edge="1" parent="1" source="u4AFMaCB7_kAfrmaPgd3-8">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+              <mxPoint x="341" y="893" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="8N1iv7NUeNb2" id="u4AFMaCB7_kAfrmaPgd3-6">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=13;spacing=0;strokeColor=#f2f2f2;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#d2d3d5;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="326" y="550" width="30" height="210" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="u4AFMaCB7_kAfrmaPgd3-7" value="Ingreso" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;whiteSpace=wrap;fontSize=17.8;fontColor=#333333;fontStyle=1;align=center;whiteSpace=wrap;align=left;spacing=0;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffbd50;strokeWidth=0.8;" vertex="1" parent="1">
+          <mxGeometry x="-67" y="302" width="143" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="u4AFMaCB7_kAfrmaPgd3-8" value="Base de Datos" style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;whiteSpace=wrap;fontSize=18;fontColor=#333333;fontStyle=1;align=center;whiteSpace=wrap;align=left;spacing=0;strokeOpacity=0;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffbd50;strokeWidth=0.8;" vertex="1" parent="1">
+          <mxGeometry x="270" y="302" width="143" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="u4AFMaCB7_kAfrmaPgd3-9" value="" style="group;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="-335" y="140" width="640" height="48" as="geometry" />
+        </mxCell>
+        <UserObject label="Diagrama de secuencia de credenciales" lucidchartObjectId="8N1iwq~ZEj~N" id="u4AFMaCB7_kAfrmaPgd3-10">
+          <mxCell style="points=[[0.205,0.967,0],[0.806,0.967,0]];html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=25;fontColor=#b2b2b2;fontStyle=1;align=center;spacingLeft=7;spacingRight=7;spacingTop=2;spacing=3;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=1.5;" vertex="1" parent="u4AFMaCB7_kAfrmaPgd3-9">
+            <mxGeometry width="640" height="38" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Heidy Endo&amp;nbsp; |  %date{mmmm d, yyyy}%" placeholders="1" lucidchartObjectId="8N1ixokxZb8." id="u4AFMaCB7_kAfrmaPgd3-11">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=16.1;fontColor=#b2b2b2;align=center;spacingLeft=7;spacingRight=7;spacingTop=2;spacing=3;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=1.5;" vertex="1" parent="u4AFMaCB7_kAfrmaPgd3-9">
+            <mxGeometry y="34" width="640" height="14" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="8N1iFZ4A1Hz7" id="u4AFMaCB7_kAfrmaPgd3-12">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;fontFamily=Helvetica;strokeColor=#b2b2b2;strokeOpacity=100;strokeWidth=1.5;rounded=0;startArrow=none;;endArrow=none;;exitX=0.205;exitY=0.967;exitPerimeter=0;entryX=0.806;entryY=0.967;entryPerimeter=0;" edge="1" parent="u4AFMaCB7_kAfrmaPgd3-9" source="u4AFMaCB7_kAfrmaPgd3-10" target="u4AFMaCB7_kAfrmaPgd3-10">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points">
+                <mxPoint x="131" y="57" generated="1" />
+                <mxPoint x="516" y="57" generated="1" />
+              </Array>
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="Usuario" lucidchartObjectId="8N1ibrDJG5DF" id="u4AFMaCB7_kAfrmaPgd3-13">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;shape=umlActor;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;whiteSpace=nowrap;whiteSpace=wrap;fontSize=17.1;fontColor=#333333;align=center;spacing=0;strokeColor=#333333;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#ffffff;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="-443" y="283" width="60" height="135" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="8N1icJZqiLRZ" id="u4AFMaCB7_kAfrmaPgd3-14">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;fontFamily=helvetica;strokeColor=#333333;strokeOpacity=100;dashed=1;fixDash=1;strokeWidth=0.8;rounded=0;startArrow=none;;endArrow=none;;exitX=0.501;exitY=0.531;exitPerimeter=0;" edge="1" parent="1" source="u4AFMaCB7_kAfrmaPgd3-13">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+              <mxPoint x="-411" y="912" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="8N1i3hJqZyE7" id="u4AFMaCB7_kAfrmaPgd3-15">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=13;spacing=0;strokeColor=#f2f2f2;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#d2d3d5;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="-428" y="508" width="30" height="312" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="8N1iSq0eZZGS" id="u4AFMaCB7_kAfrmaPgd3-16">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;fontFamily=helvetica;strokeColor=#333333;strokeOpacity=100;strokeWidth=0.8;rounded=1;arcSize=24;edgeStyle=orthogonalEdgeStyle;startArrow=none;;endArrow=block;endFill=1;;exitX=1.013;exitY=0.118;exitPerimeter=0;entryX=-0.012;entryY=0.067;entryPerimeter=0;" edge="1" parent="1" source="u4AFMaCB7_kAfrmaPgd3-15" target="u4AFMaCB7_kAfrmaPgd3-18">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="u4AFMaCB7_kAfrmaPgd3-17" value="Insertar Credenciales" style="text;html=1;resizable=0;labelBackgroundColor=#ffffff;align=center;verticalAlign=middle;fontStyle=1;fontColor=#333333;;fontSize=18;" vertex="1" parent="u4AFMaCB7_kAfrmaPgd3-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u4AFMaCB7_kAfrmaPgd3-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-13" y="671" as="sourcePoint" />
+            <mxPoint x="-397" y="671" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u4AFMaCB7_kAfrmaPgd3-27" value="Ingresa al Sistema" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;fontStyle=1;fontColor=#333333;" vertex="1" connectable="0" parent="u4AFMaCB7_kAfrmaPgd3-26">
+          <mxGeometry x="-0.1399" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u4AFMaCB7_kAfrmaPgd3-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.035;entryY=0.904;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=18;fontColor=#333333;" edge="1" parent="1" target="u4AFMaCB7_kAfrmaPgd3-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-13" y="790" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u4AFMaCB7_kAfrmaPgd3-33" value="Credenciales Incorrectas" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=18;fontStyle=1;fontColor=#333333;" vertex="1" connectable="0" parent="u4AFMaCB7_kAfrmaPgd3-32">
+          <mxGeometry x="-0.1276" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="" lucidchartObjectId="8N1iiisnAwuE" id="u4AFMaCB7_kAfrmaPgd3-18">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=13;spacing=0;strokeColor=#f2f2f2;strokeOpacity=100;fillOpacity=100;rounded=1;absoluteArcSize=1;arcSize=12;fillColor=#d2d3d5;strokeWidth=0.8;" vertex="1" parent="1">
+            <mxGeometry x="-11" y="526" width="30" height="284" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="" lucidchartObjectId="_Z1iTx3NQaJ2" id="u4AFMaCB7_kAfrmaPgd3-19">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;strokeWidth=1.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;;endArrow=block;endFill=1;;entryX=0.017;entryY=0.09;entryPerimeter=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="u4AFMaCB7_kAfrmaPgd3-6">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+              <mxPoint x="21" y="569" as="sourcePoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="u4AFMaCB7_kAfrmaPgd3-20" value="Validar Credenciales" style="text;html=1;resizable=0;labelBackgroundColor=#ffffff;align=center;verticalAlign=middle;fontStyle=1;fontColor=#333333;;fontSize=18;" vertex="1" parent="u4AFMaCB7_kAfrmaPgd3-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u4AFMaCB7_kAfrmaPgd3-23" value="Alternativa" style="shape=umlFrame;tabWidth=110;tabHeight=30;tabPosition=left;html=1;boundedLbl=1;labelInHeader=1;width=140;height=30;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-540" y="600" width="1050" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="u4AFMaCB7_kAfrmaPgd3-24" value="[If las credenciales&#xa;son correctas]" style="text;fontSize=18;" vertex="1" parent="u4AFMaCB7_kAfrmaPgd3-23">
+          <mxGeometry width="100" height="20" relative="1" as="geometry">
+            <mxPoint x="10" y="40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u4AFMaCB7_kAfrmaPgd3-25" value="[Else]" style="line;strokeWidth=1;dashed=1;labelPosition=center;verticalLabelPosition=bottom;align=left;verticalAlign=top;spacingLeft=20;spacingTop=15;fontSize=18;" vertex="1" parent="u4AFMaCB7_kAfrmaPgd3-23">
+          <mxGeometry y="35.71" width="1050" height="114.29" as="geometry" />
+        </mxCell>
+        <UserObject label="" lucidchartObjectId="p11i9yc7ob0k" id="u4AFMaCB7_kAfrmaPgd3-21">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;dashed=1;fixDash=1;dashPattern=16 6;strokeWidth=1.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;;endArrow=block;endFill=1;;entryX=1.057;entryY=0.4;entryPerimeter=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="u4AFMaCB7_kAfrmaPgd3-18">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+              <mxPoint x="326" y="640" as="sourcePoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="u4AFMaCB7_kAfrmaPgd3-22" value="Credenciales Correctas" style="text;html=1;resizable=0;labelBackgroundColor=#ffffff;align=center;verticalAlign=middle;fontStyle=1;fontColor=#333333;;fontSize=18;" vertex="1" parent="u4AFMaCB7_kAfrmaPgd3-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="" lucidchartObjectId="p11i9yc7ob0k" id="u4AFMaCB7_kAfrmaPgd3-28">
+          <mxCell style="html=1;jettySize=18;whiteSpace=wrap;fontSize=13;strokeColor=#5E5E5E;dashed=1;fixDash=1;dashPattern=16 6;strokeWidth=1.5;rounded=1;arcSize=12;edgeStyle=orthogonalEdgeStyle;startArrow=none;;endArrow=block;endFill=1;;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="u4AFMaCB7_kAfrmaPgd3-18">
+            <mxGeometry width="100" height="100" relative="1" as="geometry">
+              <Array as="points" />
+              <mxPoint x="325" y="736" as="sourcePoint" />
+              <mxPoint x="31.460000000000036" y="649.278" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </UserObject>
+        <mxCell id="u4AFMaCB7_kAfrmaPgd3-29" value="Credenciales Incorrectas" style="text;html=1;resizable=0;labelBackgroundColor=#ffffff;align=center;verticalAlign=middle;fontStyle=1;fontColor=#333333;;fontSize=18;" vertex="1" parent="u4AFMaCB7_kAfrmaPgd3-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
