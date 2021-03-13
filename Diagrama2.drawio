@@ -1,29 +1,38 @@
-<mxfile host="app.diagrams.net" modified="2021-03-08T02:36:03.170Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="AYCZzTYrO_kkVPFvzJmm" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-13T04:30:03.145Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="zUQCgTF0c0wSlzZw6pj8" version="14.4.6" type="github">
   <diagram id="3_CNdJfU3h9m9mvtLGag" name="Page-1">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ELym_EkOuUkFBFg9A3Zz-1" value="Universidad de la Amazonia" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ELym_EkOuUkFBFg9A3Zz-1" value="Universidad de la Amazonia" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="354" y="170" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ELym_EkOuUkFBFg9A3Zz-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ELym_EkOuUkFBFg9A3Zz-2" target="ELym_EkOuUkFBFg9A3Zz-1">
+        <mxCell id="ELym_EkOuUkFBFg9A3Zz-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="ELym_EkOuUkFBFg9A3Zz-2" target="ELym_EkOuUkFBFg9A3Zz-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ELym_EkOuUkFBFg9A3Zz-2" value="Zona Administrativa" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ELym_EkOuUkFBFg9A3Zz-2" value="Zona A" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="320" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ELym_EkOuUkFBFg9A3Zz-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ELym_EkOuUkFBFg9A3Zz-3" target="ELym_EkOuUkFBFg9A3Zz-1">
+        <mxCell id="ELym_EkOuUkFBFg9A3Zz-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="ELym_EkOuUkFBFg9A3Zz-3" target="ELym_EkOuUkFBFg9A3Zz-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ELym_EkOuUkFBFg9A3Zz-3" value="Zona de trabajo" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ELym_EkOuUkFBFg9A3Zz-3" value="Zona B" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="630" y="320" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ELym_EkOuUkFBFg9A3Zz-6" value="IPv4: DHCP&lt;br&gt;Gateway: 192.168.1.1&lt;br&gt;Mascara: 255.255.255.0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ELym_EkOuUkFBFg9A3Zz-6" value="IPv4: DHCP&lt;br&gt;Gateway: 172.16.0.1&lt;br&gt;Mascara: 255.255.0.0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="45" y="270" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ELym_EkOuUkFBFg9A3Zz-7" value="IPv4: DHCP&lt;br&gt;Gateway: 192.168.1.1&lt;br&gt;Mascara: 255.255.255.0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ELym_EkOuUkFBFg9A3Zz-7" value="IPv4: DHCP&lt;br&gt;Gateway: 172.16.0.1&lt;br&gt;Mascara: 255.255.0.0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="615" y="280" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iEaii4cm5UazwfcMkreI-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="iEaii4cm5UazwfcMkreI-1" target="ELym_EkOuUkFBFg9A3Zz-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iEaii4cm5UazwfcMkreI-1" value="Oficinas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iEaii4cm5UazwfcMkreI-3" value="IPv4: DHCP&lt;br&gt;Gateway: 172.16.0.1&lt;br&gt;Mascara: 255.255.0.0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="195" y="450" width="150" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
